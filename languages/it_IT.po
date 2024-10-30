@@ -1,0 +1,55 @@
+# Copyright (C) 2020 Mikros
+# This file is distributed under the same license as the Mikros plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mikros 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mikros-"
+"integration\n"
+"POT-Creation-Date: 2020-05-06T07:34:48+00:00\n"
+"PO-Revision-Date: 2020-05-06 09:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: mikros-integration\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Mikros"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mikros.coupons/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce-Mikros Integration"
+msgstr "Integrazione WooCommerce-Mikros"
+
+#. Author URI of the plugin
+msgid "https://mikros.coupons"
+msgstr ""
+
+#: actions.php:25
+msgid "Mikros Integration"
+msgstr "Integrazione Mikros"
+
+#: views/mikros_options_page.php:6
+msgid "Mikros-WooCommerce Integration"
+msgstr "Integrazione WooCommerce-Mikros"
+
+#: views/mikros_options_page.php:8
+msgid "Add here the API Key that you find in %s"
+msgstr "Aggiungi qui la chiave API che trovi in %s"
+
+#: views/mikros_options_page.php:14
+msgid "API Key"
+msgstr "Chiave API"
+
+#: views/mikros_woocommerce_coupon_data_panels.php:7
+msgid "Ad Identifier"
+msgstr "Identificatore Inserzione"
